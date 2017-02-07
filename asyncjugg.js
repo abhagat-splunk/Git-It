@@ -1,5 +1,5 @@
-const http = require('http');
-const async = require('async');
+var async = require('async');
+var http = require('http');
 
 
 var urlOne = process.argv[2];
